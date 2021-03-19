@@ -68,8 +68,9 @@ across_team:
   name:              The ACROSS Team
   email:             <mail@domain.tld>
   about:             |
-    The ACROSS Team is an international team made of...
+    The ACROSS project is founded by Agence Nationale de la Recherche
 
-  picture:           https://placehold.it/128x128
+ picture:
+    path:            assets/img/anr-projet-logo.png
   twitter:           <username>
   github:            <username>
