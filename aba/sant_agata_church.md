@@ -12,7 +12,7 @@ The results are published in
 The church of Sant’Agata is an exceptional working laboratory since the repair operations are still visible and the existence of exceptional historical documents like Nozzolini’s log book allows to corroborate the information obtained from stratigraphic analysis. Such an extraordinary richness of information is mainly due to the Sant’Agata population who is strongly engaged into the preservation of its heritage. Indeed, the town hall of Scaperia e San Piero sponsored an outreach event, held in October 2019 in the church of Sant’Agata, to present the project to the local population and to hare with them the main results of
 this study. 
 
-![Outreach in Sant'Agata](outreach)
+[Outreach in Sant'Agata](outreach)
 
 
 
