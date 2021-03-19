@@ -65,10 +65,12 @@ maria_lancieri:
 
 # Another author (optional)
 across_team:
-  name:              The ACROSS Team
+  name:              Foundings
   email:             <mail@domain.tld>
   about:             |
-    The ACROSS project is founded by Agence Nationale de la Recherche
+    The ACROSS Project is foundend by the Agence Nationale pour la Recherche
 
- picture:
-    path:            assets/img/anr-projet-logo.png
+  picture:           
+  path:            assets/img/anr-projet-logo.jpg
+  twitter:           <username>
+  github:            <username>
