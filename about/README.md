@@ -20,9 +20,9 @@ The ambition of this project is to study past earthquakes using buildings as “
 
 With this aim, a methodology connecting “ArChaeology, inventory of RecOnstruction, Seismology and Structural engineering” (ACROSS) is introduced.
 
-The project goal is to demonstrate that archaeological characterization of post-seismic repairs on buildings can be successfully used to infer key ground motion and earthquake source characteristics of historical earthquakes.
+The project goal is to demonstrate that archaeological characterization of post-seismic repairs on buildings can be successfully used to infer key ground motion and earthquake source characteristics of historical earthquakes
 
+![Disciplines interaction in ACROSS](schema.png)
 
 <!--author-->
-
 
