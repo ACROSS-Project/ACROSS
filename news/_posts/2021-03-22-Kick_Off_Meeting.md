@@ -7,4 +7,4 @@ sitemap: false
 ---
 
 We are starting this project with a scientific workshop and WP meetings.
-The program is available [here](/downloads/kickoffmeeting.docx)
+The program is available [here](/downloads/kickoffmeeting.docx){:target="_blank"}.
