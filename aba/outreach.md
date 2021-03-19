@@ -24,7 +24,3 @@ Tommaso Francucci realised a video to explain the measures surveys and the aim o
 [Video](https://youtu.be/JPLIgqQgP-4)
 
 
-
-
-
-
