@@ -19,6 +19,11 @@ Students from Siena and Florence university were involved in the project
 ![The Team](theteam.jpeg)
 
 
+Tommaso Francucci realised a video to explain the measures surveys and the aim of the project
+
+[Video](https://youtu.be/JPLIgqQgP-4)
+
+
 
 
 
