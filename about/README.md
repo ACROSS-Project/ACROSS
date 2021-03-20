@@ -51,8 +51,12 @@ The work based on a single test site is not sufficient to constrain the source o
 ![belltowers](pievi.png)
 
 
-The bell towers are located in the northern part (Convento Bosco ai Frati and Sant’Agata), along a profile crossing the centre (San Michele in Ronta, San Giovanni Maggiore, San Lorenzo), and in the neighbourhood of the basin (San Cresci in Valcavia). Such a geographic coverage is fundamental to constrain the ground motion distribution and infer the earthquake source properties. A preliminary historical and archaeological analysis conducted on the towers [6] testifies that they are heterogeneous in terms of: level of damage induced by the main seismic events (1542, 1919); post-seismic retrofitting (hooping, tie bars, reconstructions); geometry, connection with the nave, and construction material (even if they are not yet fully characterized). 
- 
+The bell towers are located in the northern part (Convento Bosco ai Frati and Sant’Agata), along a profile crossing the centre (San Michele in Ronta, San Giovanni Maggiore, San Lorenzo), and in the neighbourhood of the basin (San Cresci in Valcavia). Such a geographic coverage is fundamental to constrain the ground motion distribution and infer the earthquake source properties. A preliminary historical and archaeological analysis conducted on the towers [6] testifies that they are heterogeneous in terms of: level of damage induced by the main seismic events (1542, 1919); post-seismic retrofitting (hooping, tie bars, reconstructions); geometry, connection with the nave, and construction material (even if they are not yet fully characterized).
+
+
+
+
+
  
 <!--author-->
 
