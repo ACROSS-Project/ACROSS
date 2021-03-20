@@ -2,6 +2,7 @@
 
 Who are we?
 A consortium of 5 French institutes and 4 Italian partners!
+![logos](logo)
 
 ### [PI : Maria Lancieri (IRSN, France)](maria)
 
