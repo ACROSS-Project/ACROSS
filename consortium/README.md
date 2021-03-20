@@ -5,7 +5,7 @@ A consortium of 5 French institutes and 4 Italian partners!
 
 ### [PI : Maria Lancieri (IRSN, France)](maria)
 
-##WP1 Tracing the seismic history of the five bell towers
+## WP1 Tracing the seismic history of the five bell towers
 
 ##### [WP1 leader: Hélène Dessale (ENS - PSL AOROC, France)](helened)
 
