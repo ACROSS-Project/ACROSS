@@ -21,7 +21,7 @@ Students from Siena and Florence university were involved in the project
 
 Tommaso Francucci realised a video to explain the measures surveys and the aim of the project
 
-[Video](<iframe width="560" height="315" src="https://www.youtube.com/embed/JPLIgqQgP-4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JPLIgqQgP-4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 
