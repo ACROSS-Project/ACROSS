@@ -12,7 +12,7 @@ A consortium of 5 French institutes and 4 Italian partners!
 
 [Cecilia Ciucarelli (INGV, Italy)](cecilia)
 
-[Andrea Arrighetii (UniSiena - SISMA, Italy)](andrea)
+[Andrea Arrighetti (UniSiena - SISMA, Italy)](andrea)
 
 [Georgia Porsoulis (Independent researcher, France)](georgia)
 
