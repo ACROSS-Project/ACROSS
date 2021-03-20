@@ -2,7 +2,7 @@
 layout: home
 cover: true
 description: >
-  ACROSS project bla bla
+  ACROSS ANR Project 
 hide_description: true
 posts_page: /news/
 no_third_column: true
