@@ -1,0 +1,1 @@
+Associated professor in archaeology at ENS. She has been PI of the ANR RECAP project (2015-2019), the EU project “Culture 2000” (2003-2004), and the research program PEPS PSL-CNRS on the Villa of Diomedes (2013) in Pompeii.
