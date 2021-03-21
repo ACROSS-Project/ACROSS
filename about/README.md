@@ -12,7 +12,7 @@ author: maria_lancieri
 
 # About
 
-## Monuments as stone seismometer
+## Monuments as stone seismometers
 
 Historical earthquake catalogues are one of the building blocks for the assessment of seismic hazard. In spite of many years of research in the archives, many earthquakes remain poorly known. New sources of information are hence required.
 
