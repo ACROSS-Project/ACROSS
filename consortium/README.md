@@ -19,9 +19,9 @@ A consortium of 5 French institutes and 4 Italian partners!
 [Emma Cantisani (CNR, Italy)](emma)
 
 ## WP2 Engineering analysis of the bell towers
-##### [WP2 leader: Deigo Mercerat (CEREMA, France)](diego)
+##### [WP2 leader: Diego Mercerat (CEREMA, France)](diego)
 
-[Cedric Giry (ENS Paris-Saclay, France)](cedric)
+[Cédric Giry (ENS Paris-Saclay, France)](cedric)
 
 [Fréderique Raguenau (ENS Paris-Saclay, France)](fred)
 
