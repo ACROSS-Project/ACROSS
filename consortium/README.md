@@ -8,7 +8,7 @@ A consortium of 5 French institutes and 4 Italian partners!
 
 ## WP1 Tracing the seismic history of the five bell towers
 
-##### [WP1 leader: Hélène Dessale (ENS - PSL AOROC, France)](helened)
+##### [WP1 leader: Hélène Dessales (ENS - PSL AOROC, France)](helened)
 
 [Cecilia Ciucarelli (INGV, Italy)](cecilia)
 
