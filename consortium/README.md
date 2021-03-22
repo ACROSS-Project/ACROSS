@@ -4,11 +4,11 @@ Who are we?
 A consortium of 5 French institutes and 4 Italian partners!
 ![logos](images/logo.png)
 
-### [PI : Maria Lancieri (IRSN, France)](maria)
+**[PI : Maria Lancieri (IRSN, France)](maria)**
 
 ## WP1 Tracing the seismic history of the five bell towers
 
-##### [WP1 leader: Hélène Dessales (ENS - PSL AOROC, France)](helened)
+**[WP1 leader: Hélène Dessales (ENS - PSL AOROC, France)](helened)**
 
 [Cecilia Ciucarelli (INGV, Italy)](cecilia)
 
@@ -19,7 +19,8 @@ A consortium of 5 French institutes and 4 Italian partners!
 [Emma Cantisani (CNR, Italy)](emma)
 
 ## WP2 Engineering analysis of the bell towers
-##### [WP2 leader: Diego Mercerat (CEREMA, France)](diego)
+
+**[WP2 leader: Diego Mercerat (CEREMA, France)](diego)**
 
 [Cédric Giry (ENS Paris-Saclay, France)](cedric)
 
@@ -33,7 +34,7 @@ A consortium of 5 French institutes and 4 Italian partners!
 
 ## WP3: Selecting and generating strong ground motion
 
-##### [WP3 leader Céline Gélis(IRSN, France)](celine) 
+**[WP3 leader Céline Gélis (IRSN, France)](celine)**
 
 [Hélène Lyon-Caen (ENS, France)](helenelc)
 
@@ -45,7 +46,7 @@ A consortium of 5 French institutes and 4 Italian partners!
 
 ## WP4: The aggregator
 
-###### [WP leader: Maria Lancieri (IRSN, France)](maria)
+**[WP leader: Maria Lancieri (IRSN, France)](maria)**
 
 [Yann Richet (IRSN, France)](yann)
 
