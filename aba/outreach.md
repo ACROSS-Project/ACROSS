@@ -8,15 +8,15 @@ this study.
 Andrea Arrighetti, Emma Cantisani, Fabio Fratini, Giovanni Minutoli and Maria Lancieri animated the round table with the population.
 
 A series of talk were given to introduce the project and the results.
-![People in the church](people.jpeg)
+![People in the church](images/people.jpeg)
 
 An exibition with scientific poster was held in the parrish cloister
 
-![Fabio Fratini](fabio.jpeg)
+![Fabio Fratini](images/fabio.jpeg)
 
 Students from Siena and Florence university were involved in the project
 
-![The Team](theteam.jpeg)
+![The Team](images/theteam.jpeg)
 
 
 Tommaso Francucci realised a video to explain the measures surveys and the aim of the project
