@@ -6,9 +6,9 @@ Maria Lancieri PhD (2002-2005) in seismic risk (Università degli studi di Napol
 
 Links
 -
-[BERSSIN](https://www.irsn.fr/FR/Larecherche/Organisation/equipes/environnement/Berssin/Pages/Bureau-evaluation-risques-sismiques-surete-installations.aspx#.YFj9ty1aYWo)
+[BERSSIN](https://www.irsn.fr/FR/Larecherche/Organisation/equipes/environnement/Berssin/Pages/Bureau-evaluation-risques-sismiques-surete-installations.aspx#.YFj9ty1aYWo){:target="_blank"}
 
-[Earthquakes and NPP](https://www.irsn.fr/FR/connaissances/Installations_nucleaires/La_surete_Nucleaire/risque_sismique_installations_nucleaires/Pages/sommaire.aspx#.YFj99y1aYWo) In French
+[Earthquakes and NPP](https://www.irsn.fr/FR/connaissances/Installations_nucleaires/La_surete_Nucleaire/risque_sismique_installations_nucleaires/Pages/sommaire.aspx#.YFj99y1aYWo){:target="_blank"} In French
 
  
 

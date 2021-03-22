@@ -6,5 +6,5 @@ I’m a Granted Researcher and a Ph.D. in “Medieval Archaeology” at the Huma
 
 Links
 -
-[SISMA](http://www.sisma2015.it)
+[SISMA](http://www.sisma2015.it){:target="_blank"}
 

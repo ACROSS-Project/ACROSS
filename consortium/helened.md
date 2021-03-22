@@ -9,13 +9,13 @@ Hélène Dessales is lecturer in Roman archaeology at the Ecole normale supérie
 Links
 -
 
-[AOROC](http://www.archeo.ens.fr/?lang=fr) 
+[AOROC](http://www.archeo.ens.fr/?lang=fr){:target="_blank"} 
 
-[Villa di Diomede PSL Program](https://explore.psl.eu/fr/decouvrir/focus/villa-de-diomede-pompei-la-fabrique-dune-villa-romaine)
+[Villa di Diomede PSL Program](https://explore.psl.eu/fr/decouvrir/focus/villa-de-diomede-pompei-la-fabrique-dune-villa-romaine){:target="_blank"}
 
-[Villa di Diomede Project](http://villadiomede.huma-num.fr/3dproject/?lang=fr)
+[Villa di Diomede Project](http://villadiomede.huma-num.fr/3dproject/?lang=fr){:target="_blank"}
 
-[ANR RECAP](http://recap.huma-num.fr/webpublic/?lang=fr)
+[ANR RECAP](http://recap.huma-num.fr/webpublic/?lang=fr){:target="_blank"}
 
 
 
