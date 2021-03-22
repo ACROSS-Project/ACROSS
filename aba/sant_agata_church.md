@@ -6,17 +6,20 @@ The Parish church has been partially studied in preliminary studies (Tesi di And
 .
 
 ![Pieve of Sant'Agata - External view](images/sant_agata_ext.jpg)
+The Pieve of Sant'Agata, Tuscany.
+{:.figcaption}
 
 
 The results are published in:
 
-***[Tracing the seismic history of Sant’Agata del Mugello (Italy, Tuscany) through a cross-disciplinary approach](https://hal.archives-ouvertes.fr/hal-02944920){:target="_blank"}
-***
+[Tracing the seismic history of Sant’Agata del Mugello (Italy, Tuscany) through a cross-disciplinary approach](https://hal.archives-ouvertes.fr/hal-02944920){:target="_blank"}
+{:.lead}
+
 
 The church of Sant’Agata is an exceptional working laboratory since the repair operations are still visible and the existence of exceptional historical documents like Nozzolini’s log book allows to corroborate the information obtained from stratigraphic analysis. Such an extraordinary richness of information is mainly due to the Sant’Agata population who is strongly engaged into the preservation of its heritage. Indeed, the town hall of Scaperia e San Piero sponsored an outreach event, held in October 2019 in the church of Sant’Agata, to present the project to the local population and to hare with them the main results of
 this study. 
 
-[Outreach in Sant'Agata](outreach)
+[Outreach in Sant'Agata](outreach.md)
 
 
 
