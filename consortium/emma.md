@@ -15,5 +15,5 @@ Participation to Recent National and International Projects: 2007-2013  Tecon@BC
 
 Links
 -
-[Istituto di Scienze del Patrimonio Culturale](https://www.ispc.cnr.it/en/)
+[Istituto di Scienze del Patrimonio Culturale](https://www.ispc.cnr.it/en/){:target="_blank"}
 

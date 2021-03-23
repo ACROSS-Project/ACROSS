@@ -9,4 +9,4 @@ He participated in many national and European Projects, he has been coordinator,
 
 Links
 -
-[Istituto di Scienze del Patrimonio Culturale](https://www.ispc.cnr.it/en/)
+[Istituto di Scienze del Patrimonio Culturale](https://www.ispc.cnr.it/en/){:target="_blank"}
