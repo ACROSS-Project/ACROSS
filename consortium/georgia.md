@@ -1,5 +1,6 @@
 ## Georia Poursoulis (La Memoire des Lieux, independent consultant)
-![georgia](images/Georgia.jpg)
+![georgia](images/Georgia.jpg){: width="250" }
+
 
 Dr in History and Archaeology, specialised in Archaesoseismology : the research of seismic traces on the historical buildings.
 
