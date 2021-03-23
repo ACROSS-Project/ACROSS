@@ -1,6 +1,6 @@
 ## Emma Cantisani (CNR, Istituto di Scienze del Patrimonio Culturale)
 
-![Emma](images/Emma.jpg){: width="500" }
+![Emma](images/Emma.jpg){: width="350" }
 
 Graduate cum laude in Geological Sciences at University of Pisa (year 2009). Received the PhD title in Sciences for Conservation of Cultural Heritage at University of Firenze in 2003. 
 2003-2005 Post-doc research grant at CNR Institute for Conservation and Valorisation of Cultural Heritage in the European project “ Development of integrate methodologies for the evaluation of durability of monumental stones" (McDUR Project);
