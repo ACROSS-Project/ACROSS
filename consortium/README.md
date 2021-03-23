@@ -16,7 +16,9 @@ A consortium of 5 French institutes and 4 Italian partners!
 
 [Georgia Porsoulis (Independent researcher, France)](georgia)
 
-[Emma Cantisani (CNR, Italy)](emma)
+[Emma Cantisani (CNR, ISPC Italy)](emma)
+
+[Fabio Fratini (CNR, ISPC Italy)](fabio)
 
 ## WP2 Engineering analysis of the bell towers
 
