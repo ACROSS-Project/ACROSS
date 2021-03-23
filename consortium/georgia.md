@@ -1,5 +1,5 @@
 ## Georia Poursoulis (La Memoire des Lieux, independent consultant)
-![georgia](images/Georgia.jpg){: width="250" }
+![georgia](images/Georgia.jpg){: width="150" }
 
 
 Dr in History and Archaeology, specialised in Archaesoseismology : the research of seismic traces on the historical buildings.
@@ -36,4 +36,4 @@ Work for the BRGM (Bureau de Recherches Géologiques et Minières) as archaeos
 
 Links
 -
-[La memoire des lieux](www.la-memoire-des-lieux.fr){:target="_blank"}
+[La memoire des lieux](http://www.la-memoire-des-lieux.fr){:target="_blank"}
