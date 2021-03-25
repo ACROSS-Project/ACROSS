@@ -65,12 +65,12 @@ maria_lancieri:
 
 # Another author (optional)
 across_team:
-  name:              Foundings
+  name:              Funding
   email:             <mail@domain.tld>
   about:             |
-    The ACROSS Project is foundend by the Agence Nationale pour la Recherche
+    The ACROSS Project is funded by the Agence Nationale pour la Recherche
 
-  picture:           
-  path:            assets/img/logo-anr-projet-finance_whitebg.png
+  picture:
+  path:             /assets/img/logo-anr-projet-finance_whitebg.png
   twitter:           <username>
   github:            <username>
