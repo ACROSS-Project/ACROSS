@@ -6,5 +6,12 @@ description: >
 sitemap: false
 ---
 
-We are starting this project with a scientific workshop and WP meetings.
-The program is available [here](/downloads/kickoffmeeting.docx){:target="_blank"}.
+We are starting this project with a scientific workshop on March 22th followed by specific WP meetings on March 23th.
+
+![program](images/kickoff_program.jpg)
+
+Thank you to all the participants for their contributions and the fruitful exchanges!
+
+![picture](images/kickoff.jpg)
+
+
