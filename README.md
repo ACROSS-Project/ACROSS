@@ -14,6 +14,8 @@ ACROSS stands for "ArChaeology, inventory of RecOnstruction, Seismology and Stru
 
 The project goal is to demonstrate that archaeological characterization of post-seismic repairs on buildings can be successfully used to infer key ground motion and earthquake source characteristics of historical earthquakes.
 
+The project is founded by the Agence Nationale de la recherche ANR-20-CE03-0003 
+
 Read more about ACROSS in the [About](about) section.
 
 <!--author-->
