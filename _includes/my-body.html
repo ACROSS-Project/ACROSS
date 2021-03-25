@@ -97,8 +97,12 @@ Example code for using Matamo as alternative analytics solution.
    var br = document.createElement('br');
    sidebar_social.appendChild(br);
    var img = document.createElement('img');
-   img.style.width = "128px";
-   img.style.height = "128px";
+   img.style.width = "100px";
+   img.style.height = "100px";
    img.src = "/assets/img/logo-anr-projet-finance_whitebg.png";
+   img.style.cursor = "pointer";
+   img.onclick = function() {
+     window.open("https://anr.fr/Project-ANR-20-CE03-0003");
+   };
    sidebar_social.appendChild(img);
 </script>
