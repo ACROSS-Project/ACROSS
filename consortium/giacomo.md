@@ -9,8 +9,8 @@ I am the author or co-author of ca. 100 peer-reviewed publications in some of th
 Links
 -
 
-[Giacomo Corti's list of publications (and citations) on Google Scholar](https://scholar.google.it/citations?user=__UbzRgAAAAJ)
+[Giacomo Corti's list of publications (and citations) on Google Scholar](https://scholar.google.it/citations?user=__UbzRgAAAAJ){:target="_blank"}
 
-[Researchgate](http://www.researchgate.net/profile/Giacomo_Corti/)
+[Researchgate](http://www.researchgate.net/profile/Giacomo_Corti/){:target="_blank"}
 
 

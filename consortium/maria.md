@@ -10,5 +10,11 @@ Links
 
 [Earthquakes and NPP](https://www.irsn.fr/FR/connaissances/Installations_nucleaires/La_surete_Nucleaire/risque_sismique_installations_nucleaires/Pages/sommaire.aspx#.YFj99y1aYWo){:target="_blank"} In French
 
+[ResearchGate](https://www.researchgate.net/profile/Maria-Lancieri){:target="_blank"}
+
+[ORCID](https://orcid.org/0000-0003-3992-5644
+){:target="_blank"}
+
+
  
 

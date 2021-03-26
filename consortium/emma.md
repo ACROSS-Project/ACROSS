@@ -17,3 +17,15 @@ Links
 -
 [Istituto di Scienze del Patrimonio Culturale](https://www.ispc.cnr.it/en/){:target="_blank"}
 
+[CNR Profile](https://www.cnr.it/people/emma.cantisani){:target="_blank"}
+
+
+[ORCID](https://orcid.org/0000-0002-4909-5624){:target="_blank"}
+
+[SCOPUS ID](https://www.scopus.com/authid/detail.uri?authorId=6504539693){:target="_blank"}
+
+[Researchgate](https://www.researchgate.net/profile/Emma-Cantisani-2){:target="_blank"}
+
+[Google Scholar](https://scholar.google.com/citations?user=vSKdNH8AAAAJ&hl=en){:target="_blank"}
+ 
+
