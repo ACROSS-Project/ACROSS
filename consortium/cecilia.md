@@ -1,6 +1,6 @@
 ## Cecilia Ciuccarelli (INGV)
 
-![Cecilia](images/Cecilia_foto.jpg){: width="250" }
+![Cecilia](images/Cecilia_foto.jpg)
 
 
 I’m a historian and I’m researcher in the Bologna's branch of the INGV, the Italian National Institute of Geophysics and Volcanology. My main study subjects are the historical Seismology and the historical Volcanology. For over twenty years I have been investigating the historical earthquakes occurred in Italy from the Antiquity to the contemporary years. 
