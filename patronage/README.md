@@ -9,6 +9,3 @@ The ACROSS project benefits from the patronage of
 
 [Twitter](https://twitter.com/ScarpSanPie){:target="_blank"}
 
-
-
-
