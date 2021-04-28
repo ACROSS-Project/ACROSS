@@ -7,7 +7,7 @@ The ACROSS project benefits from the patronage of
 
 [www.comune.scarperiaesanpiero.fi.it](http://www.comune.scarperiaesanpiero.fi.it){:target="_blank"}
 
-[Twitter] (https://twitter.com/ScarpSanPie){:target="_blank"}
+[Twitter](https://twitter.com/ScarpSanPie){:target="_blank"}
 
 
 
