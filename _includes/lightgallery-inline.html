@@ -1,0 +1,86 @@
+<div id="inline-gallery-container" class="inline-gallery-container">
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+</div>
+
+<script src="https://unpkg.com/lightgallery@2.0.1/lightgallery.umd.js"></script>
+<script src="https://unpkg.com/lightgallery@2.0.1/plugins/zoom/lg-zoom.umd.js"></script>
+<script src="https://unpkg.com/lightgallery@2.0.1/plugins/thumbnail/lg-thumbnail.umd.js"></script>
+<script src="https://unpkg.com/lightgallery@2.0.1/plugins/autoplay/lg-autoplay.umd.js"></script>
+<script type="text/javascript">
+const lgContainer = document.getElementById('inline-gallery-container');
+const inlineGallery = lightGallery(lgContainer, {
+    container: lgContainer,
+    dynamic: true,
+    plugins: [lgZoom, lgThumbnail, lgAutoplay],
+    slideShowAutoplay: true,
+    // Turn off hash plugin in case if you are using it
+    // as we don't want to change the url on slide change
+    hash: false,
+    // Do not allow users to close the gallery
+    closable: false,
+    // Add maximize icon to enlarge the gallery
+    showMaximizeIcon: true,
+    // Append caption inside the slide item
+    // to apply some animation for the captions (Optional)
+    appendSubHtmlTo: '.lg-item',
+    // Delay slide transition to complete captions animations
+    // before navigating to different slides (Optional)
+    // You can find caption animation demo on the captions demo page
+    slideDelay: 400,
+    thumbWidth: 60,
+    thumbHeight: "40px",
+    thumbMargin: 4,
+    dynamicEl: [
+{% for file in site.static_files %}
+  {% if file.path contains include.folder %}
+    {% if file.extname == '.jpg' or 
+      file.extname == '.jpeg' or 
+      file.extname == '.JPG' or 
+      file.extname == '.JPEG' %}
+
+      {% assign filenameparts = file.path | split: "/" %}
+      {% assign filename = filenameparts | last | replace: file.extname,"" %}
+      {% if site.url == "" or site.url == nil %}
+        {% assign site_url = "https://across-project.github.io" %}
+      {% else %}
+        {% assign site_url = site.url %}
+      {% endif %}
+      {% assign site_url = site_url | replace: 'http://','' | replace: 'https://','' %}
+      {% assign thumbnail = "//images.weserv.nl/?url=" | append: site_url| append: file.path | relative_url %}
+      {% assign thumbnail = thumbnail | append: "&w=" | append: include.thumbnail_width | append: "&output=jpg&q=50" %}
+        {
+          src: '{{ file.path }}',
+          thumb: '{{ thumbnail }}',
+          subHtml: `<div class="lightGallery-captions">
+                <h4>{{ filename }}</h4>
+            </div>`,
+        },
+    {% endif %}
+  {% endif %}
+{% endfor %}
+    ],
+});
+
+// Since we are using dynamic mode, we need to programmatically open lightGallery
+inlineGallery.openGallery();
+</script>

@@ -8,11 +8,29 @@
 
       {% assign filenameparts = file.path | split: "/" %}
       {% assign filename = filenameparts | last | replace: file.extname,"" %}
+      {% if site.url == "" or site.url == nil %}
+        {% assign site_url = "https://across-project.github.io" %}
+      {% else %}
+        {% assign site_url = site.url %}
+      {% endif %}
+      {% assign site_url = site_url | replace: 'http://','' | replace: 'https://','' %}
+      {% assign thumbnail = "//images.weserv.nl/?url=" | append: site_url| append: file.path | relative_url %}
+      {% assign thumbnail = thumbnail | append: "&w=" | append: include.thumbnail_width | append: "&output=jpg&q=50" %}
 
       <a href="{{ file.path }}" title="{{ filename }}" class="no_underline">
-        <img src="//images.weserv.nl/?url={{ site.url | replace: 'http://','' | replace: 'https://','' }}{{ file.path | relative_url }}&w={{ include.thumbnail_width }}&output=jpg&q=50" alt="{{ filename }}" />
+        <img src="{{ thumbnail }}" alt="{{ filename }}" />
       </a>
     {% endif %}
   {% endif %}
 {% endfor %}
 </div>
+
+<script src="https://unpkg.com/lightgallery@2.0.1/lightgallery.umd.js"></script>
+<script src="https://unpkg.com/lightgallery@2.0.1/plugins/zoom/lg-zoom.umd.js"></script>
+<script src="https://unpkg.com/lightgallery@2.0.1/plugins/thumbnail/lg-thumbnail.umd.js"></script>
+<script type="text/javascript">
+    lightGallery(document.getElementById('lightgallery'), {
+        plugins: [lgZoom, lgThumbnail,],
+        speed: 500,
+    });
+</script>
