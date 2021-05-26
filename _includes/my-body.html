@@ -92,6 +92,7 @@ Example code for using Matamo as alternative analytics solution.
 {% endif %}
 {% endcomment %}
 
+<!-- hack to have an ANR logo on the sidebar -->
 <script>
    var sidebar_social = document.getElementById("_drawer").getElementsByClassName("sidebar-social")[0];
    var br = document.createElement('br');
@@ -106,3 +107,7 @@ Example code for using Matamo as alternative analytics solution.
    };
    sidebar_social.appendChild(img);
 </script>
+
+<!-- scripts from https://jekyllcodex.org -->
+<script type="text/javascript" src="/assets/js/lightbox.js"></script>
+<link rel="stylesheet" href="/assets/css/lightbox.css">
