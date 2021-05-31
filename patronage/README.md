@@ -2,6 +2,9 @@
 
 The ACROSS project benefits from the patronage of
 
+
+*Comune di Scarperia e San Piero*
+
 ![scarperia](images/scarperia.jpg){: width="300" }
 
 
@@ -9,6 +12,8 @@ The ACROSS project benefits from the patronage of
 
 [Twitter](https://twitter.com/ScarpSanPie){:target="_blank"}
 
+
+*Comune di Borgo San Lorenzo*
 
 ![borgo](images/borgo.jpg){: width="300" }
 
