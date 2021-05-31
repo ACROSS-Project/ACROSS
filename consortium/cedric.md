@@ -1,6 +1,6 @@
 ## Cedric Giry (Ecole Normale Supérieure Paris-Saclay)
 
-![Cedric](images/Cedric.jpg){: width="500" }
+![Cedric](images/Cedric.jpg){: width="200" }
 
 Cédric Giry is associate professor at the Ecole normale supérieure Paris-Saclay, in the Civil Engineering Departement. He develops his research activities at LMT (Laboratoire de Mécanique et Technologie) on the analysis of civil engineering structures subjected to static and severe loadings (earthquake). He develops also dedicated tools for the modeling of cracking in reinforced concrete structures and old masonry. He is in charge at LMT of the Thematical Research Unit “Dynamic and behavior of civil engineering structures”.
 Since the research works developed during the PhD of Claire Limoge, one of its research activities focuses on the evaluation of the seismic vulnerability of old masonry structures and more particularly cultural heritage structures. 
