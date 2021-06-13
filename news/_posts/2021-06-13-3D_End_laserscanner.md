@@ -2,7 +2,7 @@
 layout: post
 title: The 3D laser scanner survey is at its final stage
 description: >
-  The 3D laser scanner survey is at its final stage
+  Despite some logistic issues (and a lot of dead pigeons) Andrea and his team did it!
 sitemap: false
 ---
 This week Andrea Arrighetti and the [SISMA](http://www.sisma2015.it){:target="_blank"} team visited San Giovanni Maggiore and San Lorenzo in Borgo churches.
