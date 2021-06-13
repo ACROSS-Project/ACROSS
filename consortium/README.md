@@ -4,10 +4,13 @@ Who are we?
 A consortium of 5 French institutes and 4 Italian partners!
 ![logos](images/logo.png)
 
-we also benefit of moral support of [Comune di Scarperia, Comune di Borgo San Lorenzo, GEOTECNO] (../patronage/)
+we also benefit of moral support of [Comune di Scarperia, Comune di Borgo San Lorenzo, GEOTECNO](../patronage/)
 
 
-*[PI : Maria Lancieri (IRSN, France)](maria)*
+
+
+
+**[PI : Maria Lancieri (IRSN, France)](maria)**
 
 ## WP1 Tracing the seismic history of the five bell towers
 
