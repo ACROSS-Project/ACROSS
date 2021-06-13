@@ -10,7 +10,13 @@ slug: news
 
 # (Optional) Write a short (~150 characters) description of this featured tag.
 description: >
-  News about the ACROSS project.
+  Do youn want to know more about ACROSS project?
+
+  This is the section good for you!
+
+  Meeting, surveys, preliminary results.....we will share the tales of this adventure with you!
+
+  Stay tuned!
 
 # (Optional) You can disable grouping posts by date.
 # no_groups: true
