@@ -62,6 +62,8 @@ menu:
     url:               /patronage/
   - title:             News
     url:               /news/
+  - title:             Job offers
+    url:               /job_offers/
   - title:             ACROSS before ACROSS
     url:               /aba/
   - title:             Publications
