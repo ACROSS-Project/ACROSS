@@ -4,6 +4,9 @@ Who are we?
 A consortium of 5 French institutes and 4 Italian partners!
 ![logos](images/logo.png)
 
+we also benefit of moral support of [patronage](../patronage/README)
+
+
 **[PI : Maria Lancieri (IRSN, France)](maria)**
 
 ## WP1 Tracing the seismic history of the five bell towers
@@ -53,6 +56,9 @@ A consortium of 5 French institutes and 4 Italian partners!
 [Yann Richet (IRSN, France)](yann)
 
 All the parteners are involved!
+
+
+
 
 
 

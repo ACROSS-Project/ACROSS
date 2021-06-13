@@ -19,6 +19,10 @@ The ACROSS project benefits from the patronage of
 
 [http://www.comune.borgo-san-lorenzo.fi.it](http://www.comune.borgo-san-lorenzo.fi.it){:target="_blank"}
 
+
+
+![geotecno](images/GEOTECNO.jpg){: width="300" }
+
 *GOTECNO*
 
 Studio associato
@@ -28,7 +32,6 @@ Geologia Tecnica e Ambientale
 Firenze via Nino Bixio 9
 
 
-![geotecno](images/GEOTECNO.jpg){: width="300" }
 
 
 
