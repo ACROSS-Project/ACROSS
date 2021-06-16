@@ -8,7 +8,6 @@ description: >
 hide_description: true
 posts_page: /news/
 no_third_column: true
-author: across_team
 ---
 # ACROSS
 
