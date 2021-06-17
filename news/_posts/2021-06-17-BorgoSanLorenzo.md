@@ -12,6 +12,9 @@ A special thank to Andrea Arrighetti and the [SISMA](http://www.sisma2015.it){:t
 
 {% include lightgallery-inline.html folder="/assets/img/news/SanLorenzo-chronicle" thumbnail_width=200 %}
 
+
+
+
 *** Après l'étroitesse de la tour de S. Michele di Ronta, la compagnie de  pigeons (je pense qu'on peut décrocher un badge "mesures de vibrations ambiantes ecoresponsables"), nous nous sommes attaqués ce matin à sa majesté la pieve di San Lorenzo et son campanile 4 étoiles. 
 
 Forme complexe ergo réponse complexe! Une rapide analyse montre un contenu riche en modes. Ce fut cependant l'opportunité de densifier le 
