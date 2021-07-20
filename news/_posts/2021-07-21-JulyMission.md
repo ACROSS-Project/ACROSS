@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 35 Celsius degrees and 4 disciplines...the seimic sensors were on fire and researcher on the field as well....but we did!!
+title: 35 Celsius degrees and 4 disciplines...the seimic sensors were on fire and researchers on the field as well....but we did!!
 description: >
   A little bit late the chronicle of the long july mission.
 ---
