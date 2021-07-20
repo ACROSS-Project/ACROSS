@@ -5,7 +5,7 @@ description: >
   A little bit late the chronicle of the long july mission.
 ---
 
-From July 3th until July 9th four different survey took  place in Mugello
+From July 3th until July 9th four different surveys took  place in Mugello
 
 The CEREMA-ENS team composed by: Diego, Philippe, Michel and Arnaud, completed the instrumentation of  San Cresci in Valcava and San Giovanni Maggiore bell towers. The latter belltower required the intervention of Francesco LIBONE with its spider to help in the installation of sensors at highest floor.
 Now all data have been acquired to perform the Operational Modal Analysis allowing to infer the structures modal base.
@@ -23,7 +23,7 @@ Maria had the pleasure and the privilege of being with all the group digging hol
 During these days we meet many people who received and helped us, a special thank goes to Don Niccolò, Don Luciano, Arch. Frilli, Signora Carmela, the Protezione Civile in Borgo San Lorenzo...we will see you soon!   
  
 
-{% include lightgallery-inline.html folder="/assets/img/news/july-mission" thumbnail_width=200 %}
+{% include lightgallery-inline.html folder="/assets/img/news/july_mission" thumbnail_width=200 %}
 
 
 
