@@ -36,7 +36,7 @@ La campagna di misura in corso a giugno del 2022 ha proprio lo scopo di misurare
 
 I sensori che stiamo installando sono dei piccoli "nodi sismici" ultra sensibili, si conficcano nel suolo e ascoltano le vibrazioni della Terra non percepibili all'uomo che noi sismologi chiamiamo rumore sismico.
 
-{% include lightgallery-inline.html folder="/assets/img/news/campagna_giugno/nodi" thumbnail_width=200 %}
+{% include lightgallery-inline.html folder="/assets/img/news/campagna_giugno2022/nodi" thumbnail_width=200 %}
 
 La stima della velocità delle onde sismiche si basa su delle misure effettuate su di una rete di sensori con una geometria a cerchi concentrici. I cerchi del centro caratterizzati da una distanza dell'ordine dei 30 metri, poi dell'ordinde dei 70m, 140m e così via fino a 2 km nel caso della rete di San Giovanni Maggiore.
 
@@ -45,12 +45,13 @@ Il motivo per cui la rete di San Giovanni Maggiore è la più larga è che in qu
 
 ![picture](/assets/img/news/campagna_giugno2022/Reti.jpg) 
 
+Per questo motivo ci vedete in giro alla richiesta di riparo per i nostri strumenti durante i giorni di misura. I nodi non amano i trattori, le mucche e i cinghiali curiosi....non hanno bisogno di nulla, solo di un po' di ospitalità durante qualche giorno per lasciarli ascoltare la Terra vibrare.
 
 Grazie a voi tutti!
 The ACROSS Team
 
 
-![picture](/assets/img/news/campagna_giugno2022/Debriefing.jpg)
+![picture](/assets/img/news/campagna_giugno2022/Debriefing.jpeg)
 
 
 
