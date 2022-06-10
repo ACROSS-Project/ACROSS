@@ -1,6 +1,7 @@
 ---
 layout: post
-title: The ACROSS team is on the field again! This post in Italian for our friends in Mugello!!
+title: The ACROSS team is on the field again! 
+This post is in Italian for our friends in Mugello!!
 description: >
   Installazione di 3 reti temporanee per la misura del rumore sismico
 ---
