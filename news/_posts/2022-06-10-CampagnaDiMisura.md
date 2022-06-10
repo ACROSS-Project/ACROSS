@@ -40,9 +40,9 @@ Il motivo per cui la rete di San Giovanni Maggiore è la più larga è che in qu
 
 ![picture](/assets/img/news/campagna_giugno2022/Reti.jpg) 
 
-I sensori che stiamo installqndo sono dei piccoli "nodi sismici" ultra sensibili, si conficcano nel suolo e ascoltano le vibrazioni della Terra non percepibili all'uomo che noi sismologi chiamiamo rumore sismico.
+I sensori che stiamo installando sono dei piccoli "nodi sismici" ultra sensibili, si conficcano nel suolo e ascoltano le vibrazioni della Terra non percepibili all'uomo che noi sismologi chiamiamo rumore sismico.
 
-{% include lightgallery-inline.html folder="/assets/img/news/nodi" thumbnail_width=200 %}
+{% include lightgallery-inline.html folder="/assets/img/news/campagna_giugno/nodi" thumbnail_width=200 %}
 
 
 Grazie a voi tutti!
