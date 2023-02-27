@@ -1,4 +1,4 @@
-## Cedric Giry (Ecole Normale Supérieure Paris-Saclay)
+## Cédric Giry (Ecole Normale Supérieure Paris-Saclay)
 
 ![Cedric](images/Cedric.jpg){: width="200" }
 
