@@ -18,6 +18,8 @@ we also benefit of moral support of [Comune di Scarperia, Comune di Borgo San Lo
 
 [Cecilia Ciucarelli (INGV, Italy)](cecilia)
 
+[Agnès Tricoche (ENS - PSL AOROC, France)](agnes)
+
 [Andrea Arrighetti (UniSiena - SISMA, Italy)](andrea)
 
 [Georgia Porsoulis (Independent researcher, France)](georgia)
