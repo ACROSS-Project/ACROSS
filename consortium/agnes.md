@@ -1,4 +1,4 @@
-## Agnes Tricoche (ENS-PSL AOROC)
+## Agnès Tricoche (ENS-PSL AOROC)
 
 ![Agnes](images/Agnes_photo.jpg)
 
